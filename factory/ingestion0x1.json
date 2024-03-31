@@ -1,0 +1,9 @@
+{
+	"name": "ingestion0x1",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2fede615-e17c-4047-ba74-9181233a1397",
+		"tenantId": "c7dc13c8-b2f1-409a-ab06-43a4ba65c891"
+	}
+}
